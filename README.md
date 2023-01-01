@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=900px height=700px src="https://raw.githubusercontent.com/annoyingoragen/Memories/main/client/src/Web%20capture_2-1-2023_21659_localhost.jpeg" alt="Project logo"></a>
+ <img width=800px height=600px src="https://raw.githubusercontent.com/annoyingoragen/Memories/main/client/src/Web%20capture_2-1-2023_21659_localhost.jpeg" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Memories</h3>
