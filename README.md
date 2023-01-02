@@ -22,7 +22,7 @@
 
 ## 🧐 Demo <a name = "demo"></a>
 
-👉 demo: https://memories-366113.web.app
+👉 demo: https://memories-frontend-mern.web.app/
 
 ## 🚀 Features <a name = "features"></a>
 - List posts
